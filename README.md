@@ -1,7 +1,7 @@
 # StarTriangle
 Программа, которая нарисует из звездочек треугольник высотой n.
 <p class="aligncenter">
-# <img src="https://github.com/feuille01/StarTriangle/blob/main/download.gif" height="190"/>
+     <img src="https://github.com/feuille01/StarTriangle/blob/main/download.gif" height="190"/>
 </p>
 <style>
 .aligncenter {
