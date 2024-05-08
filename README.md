@@ -4,4 +4,6 @@
      <img src="https://github.com/feuille01/StarTriangle/blob/main/download.gif" height="190"/>
 </p>
 
+<p align="center">
 ![image](https://github.com/feuille01/StarTriangle/blob/main/2.png)
+</p>
