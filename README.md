@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-     <img src="https://github.com/feuille01/StarTriangle/blob/main/2.png" />
+     <img src="https://github.com/feuille01/StarTriangle/blob/main/0.png" />
 </p>
