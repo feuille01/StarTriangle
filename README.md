@@ -4,7 +4,7 @@
      <img src="https://github.com/feuille01/StarTriangle/blob/main/download.gif" height="190"/>
 </div>
 div {
-      text-align: center;
+      text-align: right;
     }
 
 
